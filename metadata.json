@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: CareerPrep AI: Mock Interview \u0026 Resume Optimizer",
+  "description": "A comprehensive career preparation suite featuring a real-time AI mock interviewer and an ATS-optimized resume builder.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
